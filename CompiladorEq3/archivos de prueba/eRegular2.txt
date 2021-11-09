@@ -1,0 +1,3 @@
+letra= a-zA-Z
+digito=0-9
+if|letra(letra|digito)*
